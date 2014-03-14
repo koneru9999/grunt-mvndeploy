@@ -125,6 +125,10 @@ code using [Grunt](http://gruntjs.com/).
 
 ## Release History
 
+### 1.0.4
+
+Update to git and update package.json for git url's
+
 ### 1.0.3
 
 Added unique version capability for snapshots.

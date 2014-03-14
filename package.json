@@ -1,0 +1,42 @@
+{
+  "name": "grunt-mvndeploy",
+  "description": "Deploy node projects to Maven.",
+  "version": "1.0.4",
+  "homepage": "",
+  "author": {
+    "name": "Venkaiah Chowdary Koneru",
+    "email": "koneru.chowdary@gmail.com"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin", "maven", "mvn"
+  ],
+  "dependencies": {
+    "glob": "~3.2.6",
+    "moxie-zip": "0.0.2"
+  }
+}

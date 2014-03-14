@@ -7,6 +7,10 @@
     "name": "Venkaiah Chowdary Koneru",
     "email": "koneru.chowdary@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koneru9999/grunt-mvndeploy.git"
+  },
   "bugs": {
     "url": "https://github.com/koneru9999/grunt-mvndeploy/issues"
   },

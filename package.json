@@ -2,13 +2,13 @@
   "name": "grunt-mvndeploy",
   "description": "Deploy node projects to Maven.",
   "version": "1.0.4",
-  "homepage": "",
+  "homepage": "https://github.com/koneru9999/grunt-mvndeploy",
   "author": {
     "name": "Venkaiah Chowdary Koneru",
     "email": "koneru.chowdary@gmail.com"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/koneru9999/grunt-mvndeploy/issues"
   },
   "licenses": [
     {

@@ -70,49 +70,49 @@ Maven `groupId`, e.g. `com.yourcompany`.
 
 
 #### package.artifactId
-Type: `String` 
+Type: `String`  
 Default: `name` field in `package.json`
 
 Name of artifact to publish.  This field will default to the `name` field in `package.json`.
 
 #### package.sources
-Type: `Array` 
+Type: `Array`  
 Required
 
 A list of glob-compatible paths to include in the package.
 
 #### package.version
-Type: `String` 
+Type: `String`   
 Default: `version` field in `package.json`
 
 The version of the artifact to publish.  This field will default to the `version` field in `package.json`.
 
 #### snapshot.url
-Type: `String` 
+Type: `String`   
 Required
 
 URL to your snapshots repository
 
 #### snapshot.id
-Type: `String` 
+Type: `String`   
 Optional
 
 The `id` of the snapshot repository if it is defined in your `settings.xml` file.  This option is useful if your repository requires authentication.
 
 ### snapshot.uniqueVersion
-Type: `Boolean`
+Type: `Boolean`  
 Default: true
 
 Whether to deploy snapshots with a unique version or not.
 
 #### release.url
-Type: `String` 
+Type: `String`   
 Required
 
 URL to your snapshots repository
 
 #### release.id
-Type: `String` 
+Type: `String`   
 Optional
 
 The `id` of the snapshot repository if it is defined in your `settings.xml` file.  This option is useful if your repository requires authentication.

@@ -1,6 +1,6 @@
 {
   "name": "grunt-mvndeploy",
-  "description": "Deploy node projects to Maven.",
+  "description": "Deploy node projects to Maven repositories",
   "version": "1.0.4",
   "homepage": "https://github.com/koneru9999/grunt-mvndeploy",
   "author": {

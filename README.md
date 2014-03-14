@@ -36,7 +36,7 @@ grunt.initConfig({
     options: {
       debug: true // Optional boolean
     },
-    package: {
+    "package": {
       groupId: "com.example",
       artifactId: "project",
       sources: ["dist/**"],

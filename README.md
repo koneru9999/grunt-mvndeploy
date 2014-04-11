@@ -1,7 +1,9 @@
 grunt-mvndeploy
 ===============
 
-Deploy node projects to Maven repositories
+Deploy node projects to Maven repositories.
+
+Inspired from grunt-mvndeploy module but added additional fucntionality to it to automatically publish to SNAPSHOT repo based on the version.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.1`

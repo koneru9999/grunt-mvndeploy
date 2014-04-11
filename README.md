@@ -32,7 +32,7 @@ object passed into `grunt.initConfig()`.
 
 ```js
 grunt.initConfig({
-  mvn: {
+  mvn_deploy: {
     options: {
       debug: true // Optional boolean
     },

@@ -127,7 +127,7 @@ code using [Grunt](http://gruntjs.com/).
 
 ### 1.0.5
 
-Fix Readme.md docuemntation error
+Fix README.md docuemntation error
 
 ### 1.0.4
 

@@ -25,16 +25,16 @@ with this line of JavaScript:
 grunt.loadNpmTasks('grunt-mvndeploy');
 ```
 
-## The "mvn-deploy" task
+## The "mvndeploy" task
 
 ### Overview
 
-In your project's Gruntfile, add a section named `mvn-deploy` to the data
+In your project's Gruntfile, add a section named `mvndeploy` to the data
 object passed into `grunt.initConfig()`.
 
 ```js
 grunt.initConfig({
-  mvn-deploy: {
+  mvndeploy: {
     options: {
       debug: true // Optional boolean
     },
@@ -129,7 +129,7 @@ code using [Grunt](http://gruntjs.com/).
 
 ### 1.0.5
 
-Fix README.md docuemntation error and change the module name
+Fix README.md docuemntation error.
 
 ### 1.0.4
 
